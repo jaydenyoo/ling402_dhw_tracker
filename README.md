@@ -9,7 +9,7 @@ The program can be used regardless of semester or year, since date-related varia
 </br>
 
 ## Instructions: ##
-1. Execute setup.sh.<br />
+1. Execute <b><i>setup.sh</i></b>.<br />
 
 2. The program will first create a hidden folder in user's home directory for the repository.<br />
 
@@ -19,7 +19,7 @@ The program can be used regardless of semester or year, since date-related varia
 
 5. If you want the program to be executed every time when bash starts up, answer 'Y' to remaining prompts.<br />
 
-6. When you are done with setup, execute main.sh. If you selected automatic execution, the program will be executed automatically from bash's next start up.<br />
+6. When you are done with setup, execute <b><i>main.sh</i></b>. If you selected automatic execution, the program will be executed automatically from bash's next start up.<br />
 
 7. To modify git credential, run ./dist/cred.sh<br />
 <br />
