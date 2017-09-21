@@ -28,4 +28,4 @@ The program can be used regardless of semester or year, since date-related varia
 <li>Following file will be created: ~/.ling402repo/.git_cred</li>
 <li>Following package will be installed: expect</li>
 <li>Environment variable export and main.sh execution will be appended to ~/.bashrc if automatic execution is chosen</li><br />
-<li>Since intended purpose of this program is to be executed and check progress of Daily Homework during bash start up, most standard outputs are set to be suppressed. If an error occurs, check if git credential is valid or if directory path has changed after setup. </li>
+<li>Since the intended purpose of this program is to be executed and check progress of Daily Homework when bash starts up, most standard outputs are set to be suppressed. If an error occurs, check if given git credential is valid or if directory path has changed after setup. </li>
