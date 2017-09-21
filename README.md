@@ -8,9 +8,9 @@ The program will create hidden cloned repository and github credential informati
 The program can be used regardless of semester or year, since date-related variables are based on system's date at the time of execution. <br />
 <br />
 <br />
-# Instructions: <br />
+# Instructions:
 1. Execute setup.sh.<br />
-<br />
+
 2. The program will first create a hidden folder in user's home directory for the repository.<br />
 <br />
 3. The program will then ask for user's github credential and save it to the home directory as hidden file.<br />
