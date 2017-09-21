@@ -6,8 +6,8 @@ This is a Daily Homework Tracker for University of Ilinois <i><b>LING 402: Tools
 The program will create hidden cloned repository and github credential information in user's home directory and check how many daily exercises were completed in the current week. <br />
 <br />
 The program can be used regardless of semester or year, since date-related variables are based on system's date at the time of execution. <br />
-
 </br>
+
 ## Instructions: ##
 1. Execute setup.sh.<br />
 
@@ -27,4 +27,4 @@ The program can be used regardless of semester or year, since date-related varia
 <li>Following directories will be created: ~/.ling402repo ~/.ling402repo/$netID-daily</li>
 <li>Following file will be created: ~/.ling402repo/.git_cred</li>
 <li>Following package will be installed: expect</li>
-<li>Environment variable export and main.sh execution will be appended to ~/.bashrc if automatic execution chosen</li>
+<li>Environment variable export and main.sh execution will be appended to ~/.bashrc if automatic execution is chosen</li>
