@@ -2,7 +2,7 @@
 -by JeeHaeng Yoo (jyoo46)
 
 ## Description: ##
-This is a Daily Homework Tracker for University of Ilinois <i>LING 402: Tools & Techniques for Speech & Language Processing</i>.
+This is a Daily Homework Tracker for University of Ilinois <i><b>LING 402: Tools & Techniques for Speech & Language Processing</b></i>.
 The program will create hidden cloned repository and github credential information in user's home directory and check how many daily exercises were completed in the current week. <br />
 <br />
 The program can be used regardless of semester or year, since date-related variables are based on system's date at the time of execution. <br />
