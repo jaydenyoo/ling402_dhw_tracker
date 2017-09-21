@@ -21,7 +21,7 @@ The program can be used regardless of semester or year, since date-related varia
 
 6. When you are done with setup, execute <b><i>main.sh</i></b>. If you selected automatic execution, the program will be executed automatically from bash's next start up.<br />
 
-7. To modify git credential, run ./dist/cred.sh<br />
+7. To modify git credential, run <b><i>/dist/cred.sh</i></b><br />
 <br />
 
 <li>Following directories will be created: ~/.ling402repo ~/.ling402repo/$netID-daily</li>
