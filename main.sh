@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Checking LING 402 Daily Homework"
+echo "Checking LING 402 Daily Homework..."
 
 file='.git_cred'
 

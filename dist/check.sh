@@ -30,4 +30,4 @@ do
 	fi
 done
 
-echo "$cnt / 5 Daily Homework Done" 
+echo "$cnt / 5 Daily Homework Done!" 
